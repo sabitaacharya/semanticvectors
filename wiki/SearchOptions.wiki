@@ -62,6 +62,9 @@ Searching term vectors, searchtype SUM ... Search output follows ...
 
 
 ===SPARSESUM===
+
+*_Not currently supported, didn't work very well._*
+
 Build a query as with SUM option, but quantize to sparse vectors before taking scalar product at search time.
 
 Example:
